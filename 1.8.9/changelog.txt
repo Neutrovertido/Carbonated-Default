@@ -1,0 +1,15 @@
+Carbonated Default v1.0 by Neutrovertido
+- Default Bedrock
+- Default Obsidian
+- Minor tweaks
+
+Carbonated Default v2.0 by Neutrovertido
+- Replaced sugar cane for that of 1.17
+- Inventory UI and Creative UI updated
+- Panorama updated to pack.png
+- New Options Background
+- New Mojang Screen
+
+Special Thanks to:
+JAPPA (1.14 Textures)
+TimeDeo (Base texture pack)
