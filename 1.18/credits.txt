@@ -1,0 +1,69 @@
+Thanks for all people who contributed directly or indirectly to the release of this resourcepack!
+
+Mojang (Minecraft's Developers)
+
+
+JAPPA (Original Textures Creator and Lead Artist of Minecraft)
+https://twitter.com/JasperBoerstra
+
+Neutrovertido (Original Creator & Project Lead)
+https://github.com/Neutrovertido/
+https://www.youtube.com/c/Neutrovertido/
+https://twitter.com/neutrovertido
+	- Custom Ores, Deepslate Ores and Nether Ores
+	- Bringing back some old textures and items (totem, cobblestone, stone, cactus, dirt, totem, etc)
+	- Custom Swords
+	- Custom GUIs and UIs (dark scheme is best scheme)
+	- Some custom icons
+	- Custom Copper Ingot
+	- Custom Low Fire
+	- Custom Wools
+	- Previously... (custom low grass, custom pumpkin overlay, custom particles, custom netherite armor, visible tripewires, custom font) (some have been replaced for better ones)
+	- and of course, bundling all of the stuff together :)
+
+TimeDeo (Base 1.8 texture pack creator)
+https://www.youtube.com/c/TimeDeo
+	- Original Colormap
+	- Original Fullbright
+	- Original Ores
+	- Original GUIs and UIs
+	- Custom Sky, Sun and Moon
+
+Vanilla Tweaks Team (Amazing aesthetic, utility and visual fix resources creators)
+https://vanillatweaks.net
+	- Custom cake texture
+	- Better particles
+	- Custom dyes
+	- Custom 2D bed items
+	- Smoother stones, oak log and some planks (crimson and warped)
+	- Different pumpkin & melon stems
+	- Shorter grass and tall grass
+	- Visual aids for waxed copper and infested stone items
+	- Clear banner patterns
+	- Redstone visual aids:
+		- Directional hoppers
+		- Directional dispensers and droppers
+		- Sticky piston sides
+		- Visible tripwires
+	- Compass lodestone
+	- Custom smoother font
+	- No Java Edition title (this is the true Minecraft)
+	- Pack.png panorama
+	- Alex and Steve skins from Minecraft Dungeons
+	- Nicer Fast Leaves
+	- Proper breaking particles fix
+	- Blaze's rods fix
+	- Consistent boat colors
+	- Jappa's spectators icons that were left out
+	- Unobstrusive scaffolding
+	- Accurate Spyglass
+
+
+D3SG4MER24 (Shield Corrections + Color)
+https://www.curseforge.com/members/d3sg4mer24/
+	- Custom shield model
+	- Lowered shield (aside model)
+	- Colored shields
+
+
+If you feel like you are a contributor to this project, were left out of the credits and/or wish to be credited accordingly please contact me.
