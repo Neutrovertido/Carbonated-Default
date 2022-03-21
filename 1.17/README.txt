@@ -1,4 +1,4 @@
-Carbonated Default v2.0 by Neutrovertido
+Carbonated Default v2.1 by Neutrovertido
 https://www.youtube.com/c/Neutrovertido/
 https://github.com/Neutrovertido/Carbonated-Default
 
@@ -58,3 +58,5 @@ Packs:
 	BlazeFix
 	ConsistentOarColors
 	JappaSpecIcons
+	AccurateSpyglass
+	UnobtrusiveScaffolding

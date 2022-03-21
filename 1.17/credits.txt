@@ -55,6 +55,8 @@ https://vanillatweaks.net
 	- Blaze's rods fix
 	- Consistent boat colors
 	- Jappa's spectators icons that were left out
+	- Unobstrusive scaffolding
+	- Accurate Spyglass
 
 
 D3SG4MER24 (Shield Corrections + Color)
@@ -64,4 +66,4 @@ https://www.curseforge.com/members/d3sg4mer24/
 	- Colored shields
 
 
-If you feel like you are a contributor to this project, were left out of the credits and wish to be credited accordingly please contact me.
+If you feel like you are a contributor to this project, were left out of the credits and/or wish to be credited accordingly please contact me.
