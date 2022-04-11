@@ -26,7 +26,7 @@ Manually Added:
 
 From: Vanilla Tweaks Resource Pack
 https://vanillatweaks.net/
-Version: 1.17
+Version: 1.18
 Packs:
 	CherryPicking
 	BetterParticles
@@ -60,3 +60,5 @@ Packs:
 	JappaSpecIcons
 	AccurateSpyglass
 	UnobtrusiveScaffolding
+	UnobstrusiveRain
+	UnobstrusiveSnow

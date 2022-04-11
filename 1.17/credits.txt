@@ -56,6 +56,7 @@ https://vanillatweaks.net
 	- Consistent boat colors
 	- Jappa's spectators icons that were left out
 	- Unobstrusive scaffolding
+	- Unobstrusive rain & snow
 	- Accurate Spyglass
 
 
