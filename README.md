@@ -28,7 +28,7 @@
 
 - [**Release 1.0**](https://github.com/Neutrovertido/Carbonated-Default/releases/tag/1.0): Features 1.8 and 1.16.2 versions
 - [**Release 2.0**](https://github.com/Neutrovertido/Carbonated-Default/releases/tag/2.0): Features 1.8 and 1.17 versions
-- [**Release 2.1**](https://github.com/Neutrovertido/Carbonated-Default/releases/tag/2.0): Features 1.17 and 1.18 versions (1.8 didn't require an update)
+- [**Release 2.1**](https://github.com/Neutrovertido/Carbonated-Default/releases/tag/2.1): Features 1.17 and 1.18 versions (1.8 didn't require an update)
 
 ## 🔖 Credits:
 Many thanks to the direct and/or indirect contributors that made this pack possible.
