@@ -10,6 +10,10 @@ Carbonated Default v2.0 by Neutrovertido
 - New Options Background
 - New Mojang Screen
 
+Carbonated Default v2.2 by Neutrovertido
+- Lower density rain & snow particles
+
 Special Thanks to:
 JAPPA (1.14 Textures)
 TimeDeo (Base texture pack)
+Vanilla Tweaks Team
