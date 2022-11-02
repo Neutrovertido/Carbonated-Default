@@ -60,3 +60,5 @@ Packs:
 	JappaSpecIcons
 	AccurateSpyglass
 	UnobtrusiveScaffolding
+	UnobstrusiveRain
+	UnobstrusiveSnow
